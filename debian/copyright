@@ -1,0 +1,22 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: JetBrains Mono
+Source: https://github.com/JetBrains/JetBrainsMono/
+Disclaimer:
+ JetBrains releases JetBrains Mono as "open source" including the
+ sources. Building from the sources requires non-free software
+ (FontLab 6).
+
+Files: *
+Copyright: 2019-2020 JetBrains
+License: Apache-2.0
+
+Files: debian/*
+Copyright: 2020 Norbert Preining <norbert@preining.info>
+License: GPL-3+
+
+License: Apache-2.0
+License-Reference: /usr/share/common-licenses/Apache-2.0
+
+License: GPL-3+
+License-Reference: /usr/share/common-licenses/GPL-3
+

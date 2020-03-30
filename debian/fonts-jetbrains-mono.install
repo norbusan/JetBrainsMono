@@ -1,0 +1,4 @@
+ttf/*.ttf         usr/share/fonts/truetype/jetbrains-mono/
+web/woff/*.woff   usr/share/fonts-jetbrains-mono/woff/
+web/woff2/*.woff2 usr/share/fonts-jetbrains-mono/woff2/
+web/eot/*.eot     usr/share/fonts-jetbrains-mono/eot/

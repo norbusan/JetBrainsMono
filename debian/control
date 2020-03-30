@@ -1,0 +1,23 @@
+Source: fonts-jetbrains-mono
+Section: contrib/fonts
+Priority: optional
+Maintainer: Norbert Preining <norbert@preining.info>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.4.1
+Homepage: https://github.com/JetBrains/JetBrainsMono/
+Vcs-Git: https://github.com/norbusan/JetBrainsMono.git
+Vcs-Browser: https://github.com/norbusan/JetBrainsMono
+Rules-Requires-Root: no
+
+Package: fonts-jetbrains-mono
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: typeface for developers
+ JetBrains Mono is a font family developed by JetBrains specifically
+ designed for code editing. It has increased height for better reading
+ experience, is specially adapted for code, ships with many code-specific
+ ligatures, supports about 145 languages.
+ .
+ This package contains the TrueType (CFF) flavored OpenType fonts and
+ the WOFF web fonts.

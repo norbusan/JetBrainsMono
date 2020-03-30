@@ -1,0 +1,4 @@
+# Web fonts are put in a fontconfig-safe location on purpose.
+font-outside-font-dir usr/share/fonts-jetbrains-mono/woff/*.woff
+font-outside-font-dir usr/share/fonts-jetbrains-mono/woff2/*.woff2
+font-outside-font-dir usr/share/fonts-jetbrains-mono/eot/*.eot
